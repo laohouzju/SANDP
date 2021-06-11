@@ -35,7 +35,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |23|2021.5.28|邱鹏宇<br>刘丁豪|DeepDyve: Dynamic Verification for Deep Neural Networks, ACM CCS 2020<br>On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits|
 |24|2021.6.4|段宇萱<br>叶童|<br>PDiff: Semantic-based Patch Presence Testing for Downstream Kernels, ACM CCS 2020|
 |25|2021.6.11|刘丁豪<br>沈鹿嘉|Understanding and Detecting Disordered Error Handling with Precise Function Pairing, USENIX Security 2021<br>Poisoning the Unlabeled Dataset of Semi-Supervised Learning, arXiv 2021|
-|26|2021.6.18|付冲<br>侯黎阳||
+|26|2021.6.18|付冲<br>侯黎阳|Squirrel: Testing Database Management Systems with Language Validity and Coverage Feedback，ACM CCS 2020|
 |27|2021.6.25|虞楚尔<br>陈安莹|OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary, IEEE S&P 2021<br>|
 |28|2021.7.2|梁红<br>马哲||
 |29|2021.7.9|向意<br>唐嘉蔚||
